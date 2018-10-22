@@ -90,7 +90,7 @@ Rivals—Relaxation Of Discipline—New Maxims Of Government.
 
 
 Chapter VI: Death Of Severus, Tyranny Of Caracalla, Usurpation Of
-Marcinus.—Part I.   Part II.   Part III.   Part IV.
+Macrinus.—Part I.   Part II.   Part III.   Part IV.
 
 The Death Of Severus.—Tyranny Of Caracalla.—Usurpation Of
 Macrinus.—Follies Of Elagabalus.—Virtues Of Alexander
@@ -107,7 +107,7 @@ Deaths Of Maximin And His Son, Of Maximus And Balbinus, And Of The Three
 Gordians.—Usurpation And Secular Games Of Philip.
 
 
-Chapter VIII: State Of Persion And Restoration Of The Monarchy.—Part I.
+Chapter VIII: State Of Persia And Restoration Of The Monarchy.—Part I.
 Part II.
 
 Of The State Of Persia After The Restoration Of The Monarchy By
@@ -125,7 +125,7 @@ Chapter X: Emperors Decius, Gallus, Æmilianus, Valerian And
 Gallienus.—Part I.   Part II.   Part III.   Part IV.
 
 The Emperors Decius, Gallus, Æmilianus, Valerian, And Gallienus.—The
-General Irruption Of The Barbari Ans.—The Thirty Tyrants.
+General Irruption Of The Barbarians.—The Thirty Tyrants.
 
 
 Chapter XI: Reign Of Claudius, Defeat Of The Goths.—Part I.  Part II.
@@ -142,7 +142,7 @@ Conduct Of The Army And Senate After The Death Of Aurelian.— Reigns Of
 Tacitus, Probus, Carus, And His Sons.
 
 
-Chapter XIII: Reign Of Diocletian And This Three Associates.—Part I.
+Chapter XIII: Reign Of Diocletian And His Three Associates.—Part I.
 Part II.   Part III.   Part IV.
 
 The Reign Of Diocletian And His Three Associates, Maximian, Galerius,
@@ -155,7 +155,7 @@ Chapter XIV: Six Emperors At The Same Time, Reunion Of The Empire.—Part
 I.   Part II.   Part III.   Part IV.
 
 Troubles After The Abdication Of Diocletian.—Death Of
-Constantius.—Elevation Of Constantine And Maxen Tius. ­ Six Emperors At
+Constantius.—Elevation Of Constantine And Maxentius. ­ Six Emperors At
 The Same Time.—Death Of Maximian And Galerius. —Victories Of Constantine
 Over Maxentius And Licinus.— Reunion Of The Empire Under The Authority
 Of Constantine.
@@ -2707,7 +2707,7 @@ and their systems, transmitted with blind deference from one generation
 of disciples to another, precluded every generous attempt to exercise
 the powers, or enlarge the limits, of the human mind. The beauties
 of the poets and orators, instead of kindling a fire like their own,
-inspired only cold and servile mitations: or if any ventured to deviate
+inspired only cold and servile imitations: or if any ventured to deviate
 from those models, they deviated at the same time from good sense
 and propriety. On the revival of letters, the youthful vigor of the
 imagination, after a long repose, national emulation, a new religion,
@@ -3317,7 +3317,7 @@ and a youth of about seventeen, whose riper years opened a fair prospect
 of every virtue: the elder of these was declared the son and successor
 of Hadrian, on condition, however, that he himself should immediately
 adopt the younger. The two Antonines (for it is of them that we are
-now peaking,) governed the Roman world forty-two years, with the same
+now speaking,) governed the Roman world forty-two years, with the same
 invariable spirit of wisdom and virtue. Although Pius had two sons, he
 preferred the welfare of Rome to the interest of his family, gave his
 daughter Faustina, in marriage to young Marcus, obtained from the senate
@@ -3359,7 +3359,7 @@ his life was the noblest commentary on the precepts of Zeno. He was
 severe to himself, indulgent to the imperfections of others, just
 and beneficent to all mankind. He regretted that Avidius Cassius, who
 excited a rebellion in Syria, had disappointed him, by a voluntary
-death, * of the pleasure of converting an enemy into a friend;; and he
+death, * of the pleasure of converting an enemy into a friend; and he
 justified the sincerity of that sentiment, by moderating the zeal of
 the senate against the adherents of the traitor. War he detested, as the
 disgrace and calamity of human nature; but when the necessity of a just
@@ -4834,7 +4834,7 @@ emperors had been distinguished by their zeal or affected reverence for
 the senate, and by a tender regard to the nice frame of civil policy
 instituted by Augustus. But the youth of Severus had been trained in the
 implicit obedience of camps, and his riper years spent in the despotism
-of military command. His haughty and inflexible spirit could' not
+of military command. His haughty and inflexible spirit could not
 discover, or would not acknowledge, the advantage of preserving an
 intermediate power, however imaginary, between the emperor and the army.
 He disdained to profess himself the servant of an assembly that detested
@@ -4882,7 +4882,7 @@ Roman empire.
 
 
 Chapter VI: Death Of Severus, Tyranny Of Caracalla, Usurpation
-Of Marcinus.--Part I.
+Of Macrinus.--Part I.
 
      The Death Of Severus.--Tyranny Of Caracalla.--Usurpation Of
      Macrinus.--Follies Of Elagabalus.--Virtues Of Alexander
@@ -5144,7 +5144,7 @@ well-grounded principle he frequently drew the most bloody inferences.
 
 
 Chapter VI: Death Of Severus, Tyranny Of Caracalla, Usurpation Of
-Marcinus.--Part II.
+Macrinus.--Part II.
 
 The execution of so many innocent citizens was bewailed by the secret
 tears of their friends and families. The death of Papinian, the
@@ -5190,7 +5190,7 @@ upon the slightest provocation, he issued his commands, at Alexandria,
 in Egypt for a general massacre. From a secure post in the temple of
 Serapis, he viewed and directed the slaughter of many thousand citizens,
 as well as strangers, without distinguishing the number or the crime
-of the sufferers; since as he coolly informed the senate, allthe
+of the sufferers; since as he coolly informed the senate, all the
 Alexandrians, those who perished, and those who had escaped, were alike
 guilty.
 
@@ -5293,7 +5293,7 @@ deliverance from a hated tyrant, and it seemed of little consequence to
 examine into the virtues of the successor of Caracalla. But as soon as
 the first transports of joy and surprise had subsided, they began to
 scrutinize the merits of Macrinus with a critical severity, and to
-arraign the nasty choice of the army. It had hitherto been considered as
+arraign the hasty choice of the army. It had hitherto been considered as
 a fundamental maxim of the constitution, that the emperor must be always
 chosen in the senate, and the sovereign power, no longer exercised by
 the whole body, was always delegated to one of its members. But Macrinus
@@ -5459,7 +5459,7 @@ faithful picture, however, which preceded his arrival, and was placed
 by his immediate order over the altar of Victory in the senate house,
 conveyed to the Romans the just but unworthy resemblance of his person
 and manners. He was drawn in his sacerdotal robes of silk and gold,
-after the loose flowing fashion of the Medes and Phnicians; his head
+after the loose flowing fashion of the Medes and Phoenicians; his head
 was covered with a lofty tiara, his numerous collars and bracelets were
 adorned with gems of an inestimable value. His eyebrows were tinged
 with black, and his cheeks painted with an artificial red and white.
@@ -5494,7 +5494,7 @@ and secret indignation.
 
 
 Chapter VI: Death Of Severus, Tyranny Of Caracalla, Usurpation Of
-Marcinus.--Part III.
+Macrinus.--Part III.
 
 To this temple, as to the common centre of religious worship, the
 Imperial fanatic attempted to remove the Ancilia, the Palladium, and
@@ -5642,7 +5642,7 @@ assembly. Her more prudent sister, Mamæa, declined the useless and
 odious prerogative, and a solemn law was enacted, excluding women
 forever from the senate, and devoting to the infernal gods the head of
 the wretch by whom this sanction should be violated. The substance, not
-the pageantry, of power. was the object of Mamæa's manly ambition. She
+the pageantry, of power, was the object of Mamæa's manly ambition. She
 maintained an absolute and lasting empire over the mind of her son, and
 in his affection the mother could not brook a rival. Alexander, with her
 consent, married the daughter of a patrician; but his respect for his
@@ -5817,7 +5817,7 @@ consulship at his villas in Campania.
 
 
 Chapter VI: Death Of Severus, Tyranny Of Caracalla, Usurpation Of
-Marcinus.--Part IV.
+Macrinus.--Part IV.
 
 The lenity of the emperor confirmed the insolence of the troops;
 the legions imitated the example of the guards, and defended their
@@ -5843,14 +5843,14 @@ undaunted emperor, "till you take the field against the Persians, the
 Germans, and the Sarmatians. Be silent in the presence of your sovereign
 and benefactor, who bestows upon you the corn, the clothing, and the
 money of the provinces. Be silent, or I shall no longer style you
-solders, but citizens, if those indeed who disclaim the laws of Rome
+soldiers  , but citizens, if those indeed who disclaim the laws of Rome
 deserve to be ranked among the meanest of the people." His menaces
 inflamed the fury of the legion, and their brandished arms already
 threatened his person. "Your courage," resumed the intrepid Alexander,
 "would be more nobly displayed in the field of battle; me you may
 destroy, you cannot intimidate; and the severe justice of the republic
 would punish your crime and revenge my death." The legion still
-persisted in clamorous sedition, when the emperor pronounced, with a cud
+persisted in clamorous sedition, when the emperor pronounced, with a loud
 voice, the decisive sentence, "Citizens! lay down your arms, and depart
 in peace to your respective habitations." The tempest was instantly
 appeased: the soldiers, filled with grief and shame, silently confessed
@@ -5959,15 +5959,15 @@ on the persons of the inhabitants, when the fertile coast of Africa was
 reduced into a province.
 
 Spain, by a very singular fatality, was the Peru and Mexico of the old
-world. The discovery of the rich western continent by the Phnicians,
+world. The discovery of the rich western continent by the Phoenicians,
 and the oppression of the simple natives, who were compelled to labor in
 their own mines for the benefit of strangers, form an exact type of the
-more recent history of Spanish America. The Phnicians were acquainted
+more recent history of Spanish America. The Phoenicians were acquainted
 only with the sea-coast of Spain; avarice, as well as ambition, carried
 the arms of Rome and Carthage into the heart of the country, and almost
 every part of the soil was found pregnant with copper, silver, and gold.
 * Mention is made of a mine near Carthagena which yielded every day
-twenty-five thousand drachmns of silver, or about three hundred thousand
+twenty-five thousand drachmas of silver, or about three hundred thousand
 pounds a year. Twenty thousand pound weight of gold was annually
 received from the provinces of Asturia, Gallicia, and Lusitania.
 
@@ -6066,7 +6066,7 @@ inheritances was, however, mitigated by some restrictions. It did not
 take place unless the object was of a certain value, most probably of
 fifty or a hundred pieces of gold; nor could it be exacted from the
 nearest of kin on the father's side. When the rights of nature and
-poverty were thus secured, it seemed reasonable, that a stranger, or
+property were thus secured, it seemed reasonable, that a stranger, or
 a distant relation, who acquired an unexpected accession of fortune,
 should cheerfully resign a twentieth part of it, for the benefit of the
 state.
@@ -7069,7 +7069,7 @@ barbarians, who soon discovered the decline of the Roman empire.
 
 
 
-Chapter VIII: State Of Persion And Restoration Of The Monarchy.--Part
+Chapter VIII: State Of Persia And Restoration Of The Monarchy.--Part
 I. Of The State Of Persia After The Restoration Of The Monarchy By
 Artaxerxes.
 
@@ -7125,7 +7125,7 @@ gave room to the aspersions of his enemies, and the flattery of his
 adherents. If we credit the scandal of the former, Artaxerxes sprang
 from the illegitimate commerce of a tanner's wife with a common soldier.
 The latter represent him as descended from a branch of the ancient
-kings of Persian, though time and misfortune had gradually reduced his
+kings of Persia, though time and misfortune had gradually reduced his
 ancestors to the humble station of private citizens. As the lineal heir
 of the monarchy, he asserted his right to the throne, and challenged the
 noble task of delivering the Persians from the oppression under which
@@ -7215,7 +7215,7 @@ and virtue will maintain the eternal peace and harmony of the universe.
 
 
 
-Chapter VIII: State Of Persion And Restoration Of The Monarchy.--Part
+Chapter VIII: State Of Persia And Restoration Of The Monarchy.--Part
 II.
 
 The theology of Zoroaster was darkly comprehended by foreigners, and
@@ -8047,7 +8047,7 @@ scene of action, to exercise their restless spirit, and to acquire
 renown by voluntary dangers. Gifts worthy of soldiers--the warlike
 steed, the bloody and even victorious lance--were the rewards which the
 companions claimed from the liberality of their chief. The rude plenty
-of his hospitable board was the only pay that hecould bestow, or they
+of his hospitable board was the only pay that he could bestow, or they
 would accept. War, rapine, and the free-will offerings of his friends,
 supplied the materials of this munificence. This institution, however it
 might accidentally weaken the several republics, invigorated the general
@@ -8384,7 +8384,7 @@ Chapter X: Emperors Decius, Gallus, Æmilianus, Valerian And
 Gallienus.--Part I.
 
      The Emperors Decius, Gallus, Æmilianus, Valerian, And
-     Gallienus.--The General Irruption Of The Barbari Ans.--The
+     Gallienus.--The General Irruption Of The Barbarians.--The
      Thirty Tyrants.
 
 From the great secular games celebrated by Philip, to the death of the
@@ -8680,7 +8680,7 @@ himself at a considerable distance from the rear of the Goths, Cniva
 turned with rapid fury on his pursuers. The camp of the Romans was
 surprised and pillaged, and, for the first time, their emperor fled
 in disorder before a troop of half-armed barbarians. After a long
-resistance, Philoppopolis, destitute of succor, was taken by storm. A
+resistance, Philippopolis, destitute of succor, was taken by storm. A
 hundred thousand persons are reported to have been massacred in the
 sack of that great city. Many prisoners of consequence became a valuable
 accession to the spoil; and Priscus, a brother of the late emperor
@@ -8791,7 +8791,7 @@ in war and affable in peace; who, together with his son, has deserved
 to be compared, both in life and death, with the brightest examples of
 ancient virtue.
 
-This fatal blow humbled, for a very little time, she insolence of the
+This fatal blow humbled, for a very little time, the insolence of the
 legions. They appeared to have patiently expected, and submissively
 obeyed, the decree of the senate which regulated the succession to the
 throne. From a just regard for the memory of Decius, the Imperial title
@@ -8827,7 +8827,7 @@ a victorious enemy, appeared without disguise in the light of an
 ignominious tribute; the minds of the Romans were not yet accustomed to
 accept such unequal laws from a tribe of barbarians; and the prince,
 who by a necessary concession had probably saved his country, became the
-object of the general contempt and aversion. The death of Hostiliamus,
+object of the general contempt and aversion. The death of Hostilianus,
 though it happened in the midst of a raging pestilence, was interpreted
 as the personal crime of Gallus; and even the defeat of the later
 emperor was ascribed by the voice of suspicion to the perfidious
@@ -8842,7 +8842,7 @@ discovered that they had not even secured their repose, though at the
 expense of their honor. The dangerous secret of the wealth and weakness
 of the empire had been revealed to the world. New swarms of barbarians,
 encouraged by the success, and not conceiving themselves bound by the
-obligation of their brethren, spread devastation though the Illyrian
+obligation of their brethren, spread devastation through the Illyrian
 provinces, and terror as far as the gates of Rome. The defence of the
 monarchy, which seemed abandoned by the pusillanimous emperor, was
 assumed by Æmilianus, governor of Pannonia and Mæsia; who rallied the
@@ -8985,7 +8985,7 @@ enterprise with which the Franks were actuated. Their rapid devastations
 stretched from the river to the foot of the Pyrenees; nor were they
 stopped by those mountains. Spain, which had never dreaded, was unable
 to resist, the inroads of the Germans. During twelve years, the greatest
-part of the reign of Gallie nus, that opulent country was the theatre of
+part of the reign of Gallienus, that opulent country was the theatre of
 unequal and destructive hostilities. Tarragona, the flourishing capital
 of a peaceful province, was sacked and almost destroyed; and so late as
 the days of Orosius, who wrote in the fifth century, wretched cottages,
@@ -9049,7 +9049,7 @@ The insult and the danger rekindled in the senate some sparks of their
 ancient virtue. Both the emperors were engaged in far distant wars,
 Valerian in the East, and Gallienus on the Rhine. All the hopes and
 resources of the Romans were in themselves. In this emergency, the
-senators resumed he defence of the republic, drew out the Prætorian
+senators resumed the defence of the republic, drew out the Prætorian
 guards, who had been left to garrison the capital, and filled up their
 numbers, by enlisting into the public service the stoutest and most
 willing of the Plebeians. The Alemanni, astonished with the sudden
@@ -10496,7 +10496,7 @@ and solicited her alliance. To the dominions of Odenathus, which
 extended from the Euphrates to the frontiers of Bithynia, his widow
 added the inheritance of her ancestors, the populous and fertile
 kingdom of Egypt. * The emperor Claudius acknowledged her merit, and
-was content, that, while he pursued the Gothic war, sheshould assert
+was content, that, while he pursued the Gothic war, she should assert
 the dignity of the empire in the East. ^61? The conduct, however, of
 Zenobia, was attended with some ambiguity; not is it unlikely that
 she had conceived the design of erecting an independent and hostile
@@ -11228,7 +11228,7 @@ person. The prudent soldiers have punished his rashness. To me they
 have offered the title of Augustus. But I submit to your clemency my
 pretensions and my merits." When this respectful epistle was read by the
 consul, the senators were unable to disguise their satisfaction, that
-Probus should condescend thus numbly to solicit a sceptre which he
+Probus should condescend thus humbly to solicit a sceptre which he
 already possessed. They celebrated with the warmest gratitude
 his virtues, his exploits, and above all his moderation. A decree
 immediately passed, without a dissenting voice, to ratify the election
@@ -11941,7 +11941,7 @@ adulterer.
 
 
 
-Chapter XIII: Reign Of Diocletian And This Three Associates.--Part I.
+Chapter XIII: Reign Of Diocletian And His Three Associates.--Part I.
 
      The Reign Of Diocletian And His Three Associates, Maximian,
      Galerius, And Constantius.--General Reestablishment Of Order
@@ -12079,7 +12079,7 @@ him worthy of the rank which he at last attained. To strengthen the
 bonds of political, by those of domestic, union, each of the emperors
 assumed the character of a father to one of the Cæsars, Diocletian
 to Galerius, and Maximian to Constantius; and each, obliging them to
-repudiate their former wives, bestowed his daughter in marriage or his
+repudiate their former wives, bestowed his daughter in marriage on his
 adopted son. These four princes distributed among themselves the wide
 extent of the Roman empire. The defence of Gaul, Spain, and Britain,
 was intrusted to Constantius: Galerius was stationed on the banks of
@@ -12267,7 +12267,7 @@ the Roman empire.
 
 
 
-Chapter XIII: Reign Of Diocletian And This Three Associates.--Part II.
+Chapter XIII: Reign Of Diocletian And His Three Associates.--Part II.
 
 Britain had none but domestic enemies to dread; and as long as the
 governors preserved their fidelity, and the troops their discipline,
@@ -12317,7 +12317,7 @@ themselves, retiring to a less laborious scene of action, devolved
 on their adopted sons the defence of the Danube and of the Rhine. The
 vigilant Galerius was never reduced to the necessity of vanquishing
 an army of barbarians on the Roman territory. The brave and active
-Contsantius delivered Gaul from a very furious inroad of the Alemanni;
+Constantius delivered Gaul from a very furious inroad of the Alemanni;
 and his victories of Langres and Vindonissa appear to have been actions
 of considerable danger and merit. As he traversed the open country with
 a feeble guard, he was encompassed on a sudden by the superior multitude
@@ -12392,7 +12392,7 @@ disorders, these barbarians, whom antiquity, shocked with the deformity
 of their figure, had almost excluded from the human species, presumed
 to rank themselves among the enemies of Rome. Such had been the unworthy
 allies of the Egyptians; and while the attention of the state was
-engaged in more serious wars, their vexations inroads might again harass
+engaged in more serious wars, their vexatious inroads might again harass
 the repose of the province. With a view of opposing to the Blemmyes a
 suitable adversary, Diocletian persuaded the Nobatæ, or people of Nubia,
 to remove from their ancient habitations in the deserts of Libya, and
@@ -12627,7 +12627,7 @@ age, their sex, and their royal dignity.
 
 
 
-Chapter XIII: Reign Of Diocletian And This Three Associates.--Part III.
+Chapter XIII: Reign Of Diocletian And His Three Associates.--Part III.
 
 While the East anxiously expected the decision of this great contest,
 the emperor Diocletian, having assembled in Syria a strong army of
@@ -12712,7 +12712,7 @@ depended on their own authority to establish.
 
 As soon as this difficulty was removed, a solemn peace was concluded and
 ratified between the two nations. The conditions of a treaty so glorious
-to the empire, and so necessary to Persia Persian, may deserve a
+to the empire, and so necessary to Persia, may deserve a
 more peculiar attention, as the history of Rome presents very few
 transactions of a similar nature; most of her wars having either been
 terminated by absolute conquest, or waged against barbarians ignorant of
@@ -12895,7 +12895,7 @@ monument of antiquity on the Capitoline hill.
 
 
 
-Chapter XIII: Reign Of Diocletian And This Three Associates.--Part IV.
+Chapter XIII: Reign Of Diocletian And His Three Associates.--Part IV.
 
 When the Roman princes had lost sight of the senate and of their ancient
 capital, they easily forgot the origin and nature of their legal power.
@@ -12997,12 +12997,12 @@ fundamental law of the constitution. It was his intention, that the two
 elder princes should be distinguished by the use of the diadem, and
 the title of Augusti; that, as affection or esteem might direct their
 choice, they should regularly call to their assistance two subordinate
-colleagues; and that the Csars, rising in their turn to the first rank,
+colleagues; and that the Cæsars, rising in their turn to the first rank,
 should supply an uninterrupted succession of emperors. The empire was
 divided into four parts. The East and Italy were the most honorable, the
 Danube and the Rhine the most laborious stations. The former claimed the
 presence of the Augusti, the latter were intrusted to the administration
-of the Csars. The strength of the legions was in the hands of the four
+of the Cæsars. The strength of the legions was in the hands of the four
 partners of sovereignty, and the despair of successively vanquishing
 four formidable rivals might intimidate the ambition of an aspiring
 general. In their civil government, the emperors were supposed to
@@ -13311,7 +13311,7 @@ Chapter XIV: Six Emperors At The Same Time, Reunion Of The
 Empire.--Part I.
 
      Troubles After The Abdication Of Diocletian.--Death Of
-     Constantius.--Elevation Of Constantine And Maxen Tius.--Six
+     Constantius.--Elevation Of Constantine And Maxentius.--Six
      Emperors At The Same Time.--Death Of Maximian And Galerius.--
      Victories Of Constantine Over Maxentius And Licinus.--
      Reunion Of The Empire Under The Authority Of Constantine.
@@ -13363,14 +13363,14 @@ the abdication of Diocletian to the menaces of Galerius, and relate the
 particulars of a private conversation between the two princes, in which
 the former discovered as much pusillanimity as the latter displayed
 ingratitude and arrogance. But these obscure anecdotes are sufficiently
-refuted by an impartia view of the character and conduct of Diocletian.
+refuted by an impartil view of the character and conduct of Diocletian.
 Whatever might otherwise have been his intentions, if he had apprehended
 any danger from the violence of Galerius, his good sense would have
 instructed him to prevent the ignominious contest; and as he had held
 the sceptre with glory, he would have resigned it without disgrace.
 
 After the elevation of Constantius and Galerius to the rank of Augusti,
-two new Csars were required to supply their place, and to complete the
+two new Cæsars were required to supply their place, and to complete the
 system of the Imperial government. Diocletian, was sincerely desirous
 of withdrawing himself from the world; he considered Galerius, who had
 married his daughter, as the firmest support of his family and of the
@@ -14294,7 +14294,7 @@ of the war, and the interview of the two emperors at Milan, which
 was appointed for that purpose, appeared to cement the union of their
 families and interests. In the midst of the public festivity they were
 suddenly obliged to take leave of each other. An inroad of the Franks
-summoned Constantine to the Rhime, and the hostile approach of the
+summoned Constantine to the Rhine, and the hostile approach of the
 sovereign of Asia demanded the immediate presence of Licinius. Maximin
 had been the secret ally of Maxentius, and without being discouraged by
 his fate, he resolved to try the fortune of a civil war. He moved out
@@ -14334,7 +14334,7 @@ civil war, cheerfully acknowledged the authority of Licinius.
 The vanquished emperor left behind him two children, a boy of about
 eight, and a girl of about seven, years old. Their inoffensive age
 might have excited compassion; but the compassion of Licinius was a very
-feeble resource, nor did it restrain him from extinguishingthe name
+feeble resource, nor did it restrain him from extinguishing the name
 and memory of his adversary. The death of Severianus will admit of
 less excuse, as it was dictated neither by revenge nor by policy. The
 conqueror had never received any injury from the father of that unhappy
@@ -15322,7 +15322,7 @@ surprise the unguarded believer, assailed him with redoubled violence on
 the days of solemn festivals. So artfully were they framed and disposed
 throughout the year, that superstition always wore the appearance of
 pleasure, and often of virtue. Some of the most sacred festivals in the
-Roman ritual were destined to salute the new calends of January with
+Roman ritual were designed to salute the new calends of January with
 vows of public and private felicity; to indulge the pious remembrance of
 the dead and living; to ascertain the inviolable bounds of property;
 to hail, on the return of spring, the genial powers of fecundity; to
@@ -15562,7 +15562,7 @@ very happily coincided with the tradition of the East, the philosophy of
 the Stoics, and the analogy of Nature; and even the country, which, from
 religious motives, had been chosen for the origin and principal scene of
 the conflagration, was the best adapted for that purpose by natural and
-physical causes; by its deep caverns, beds of sulphur, and numero is
+physical causes; by its deep caverns, beds of sulphur, and numerous
 volcanoes, of which those of Ætna, of Vesuvius, and of Lipari, exhibit
 a very imperfect representation. The calmest and most intrepid sceptic
 could not refuse to acknowledge that the destruction of the present
@@ -15930,7 +15930,7 @@ unanimous sentiment, that a first marriage was adequate to all the
 purposes of nature and of society. The sensual connection was refined
 into a resemblance of the mystic union of Christ with his church, and
 was pronounced to be indissoluble either by divorce or by death.
-The practice of second nuptials was branded with the name of a egal
+The practice of second nuptials was branded with the name of a legal
 adultery; and the persons who were guilty of so scandalous an offence
 against Christian purity, were soon excluded from the honors, and even
 from the alms, of the church. Since desire was imputed as a crime, and
@@ -16210,7 +16210,7 @@ society of the faithful bore a just proportion to the capital of the
 empire; and the Roman church was the greatest, the most numerous,
 and, in regard to the West, the most ancient of all the Christian
 establishments, many of which had received their religion from the pious
-labors of her missionaries. Instead of oneapostolic founder, the utmost
+labors of her missionaries. Instead of one apostolic founder, the utmost
 boast of Antioch, of Ephesus, or of Corinth, the banks of the Tyber were
 supposed to have been honored with the preaching and martyrdom of
 the two most eminent among the apostles; and the bishops of Rome very
@@ -16616,7 +16616,7 @@ of Athens. The antiquity of the Greek and Asiatic churches allowed a
 sufficient space of time for their increase and multiplication; and
 even the swarms of Gnostics and other heretics serve to display the
 flourishing condition of the orthodox church, since the appellation of
-hereties has always been applied to the less numerous party. To these
+heretics has always been applied to the less numerous party. To these
 domestic testimonies we may add the confession, the complaints, and the
 apprehensions of the Gentiles themselves. From the writings of Lucian, a
 philosopher who had studied mankind, and who describes their manners in
@@ -16818,7 +16818,8 @@ without any distinct information, it is impossible to determine, and
 it is difficult even to conjecture, the real numbers of the primitive
 Christians. The most favorable calculation, however, that can be deduced
 from the examples of Antioch and of Rome, will not permit us to imagine
-that more than a themselves under the banner of the cross before the
+that more than a fraction of the population placedthemselves under
+the banner of the cross before the
 important conversion of Constantine. But their habits of faith, of zeal,
 and of union, seemed to multiply their numbers; and the same causes
 which contributed to their future increase, served to render their
@@ -16877,7 +16878,7 @@ simplicity of the gospel by the refinements of human reason."
 Nor can it be affirmed with truth, that the advantages of birth and
 fortune were always separated from the profession of Christianity.
 Several Roman citizens were brought before the tribunal of Pliny, and he
-soon discovered, that a great number of persons of every orderof men in
+soon discovered, that a great number of persons of every order of men in
 Bithynia had deserted the religion of their ancestors. His unsuspected
 testimony may, in this instance, obtain more credit than the bold
 challenge of Tertullian, when he addresses himself to the fears as well
